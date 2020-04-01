@@ -1,0 +1,3 @@
+cat dog rabbit bat
+dog dog bat bat cat
+dog bat dog dog cat
